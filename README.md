@@ -8,3 +8,5 @@ A commit from GitKraken.
 Another commit test.
 
 This was a mistake but I fixed it. 
+
+This is a change I made on GitHub.
